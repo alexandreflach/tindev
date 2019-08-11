@@ -1,5 +1,12 @@
+
 backend:
 	yarn dev
+
+	yarn add socket.io
+
+frontend
+	
+	yarn add socket.io-client
 
 
 
